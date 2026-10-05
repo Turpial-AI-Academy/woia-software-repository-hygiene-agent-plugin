@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-software-repository-hygiene",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Repository-wide hygiene capability for removing dead or orphan code, stale documentation, unnecessary legacy, duplication, and abandoned project artifacts.",
   "author": {
     "name": "Turpial AI Academy",
