@@ -1,25 +1,8 @@
 {
   "schema": "dev.woia.provider-manifest/v1",
-  "version": "0.5.1",
+  "version": "0.5.6",
   "authoring_profile": "thin",
   "department": "software",
   "capability": "repository-hygiene",
-  "skill": "repository-hygiene",
-  "source_lineage": {
-    "repository": "Turpial-AI-Academy/repository-hygiene-agent-plugin",
-    "version": "1.0.1",
-    "commit": "9f541248a5f55154a18701066e800a4789c5648f"
-  },
-  "migrated_portable_paths": [
-    "skills/repository-hygiene/SKILL.md",
-    "skills/repository-hygiene/assets/README.md",
-    "skills/repository-hygiene/assets/hygiene-handoff.template.json",
-    "skills/repository-hygiene/assets/hygiene-report.template.md",
-    "skills/repository-hygiene/references/CLEANUP_PLAYBOOK.md",
-    "skills/repository-hygiene/references/CONVERGENCE_PROTOCOL.md",
-    "skills/repository-hygiene/references/DISCOVERY_MODEL.md",
-    "skills/repository-hygiene/references/FINDING_CLASSIFICATION.md",
-    "skills/repository-hygiene/references/HYGIENE_STANDARD.md",
-    "skills/repository-hygiene/references/README.md"
-  ]
+  "skill": "repository-hygiene"
 }

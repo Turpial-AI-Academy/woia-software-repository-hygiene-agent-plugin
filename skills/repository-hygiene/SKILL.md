@@ -5,7 +5,7 @@ license: MIT
 compatibility: Works across languages and repository layouts; cleanup and validation adapt to the target repository's actual runtime, build, test, lint, typecheck, dependency, documentation, and release tooling.
 metadata:
   author: Turpial AI Academy
-  version: "0.5.1"
+  version: "0.5.6"
 ---
 
 # repository-hygiene
